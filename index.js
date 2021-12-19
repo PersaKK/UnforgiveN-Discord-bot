@@ -5,7 +5,7 @@ const moment =require("moment");
 require("moment-duration-format");
                          
 const client = new Advanced.Client({
-    token: "tokeniniz buraya yazılmalı", 
+    token: "-----", 
     prefix: "!", 
     sahip: ["396352062008459266"], 
     komutDosya: "komutlar",
